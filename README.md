@@ -11,7 +11,7 @@ Ncurses library is needed to compile
 Play with k,l,m keys
 
 ### Examples
- want to move disc from left to center : K M
+ want to move disc from left to right : K M
  
  want to move disc from center to left : L K
 
